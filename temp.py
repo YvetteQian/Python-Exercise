@@ -2,4 +2,4 @@ import os
 
 
 def main():
-    pass
+    print('a')
